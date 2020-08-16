@@ -1,3 +1,3 @@
 # Hello-world
-Mu first repository
-hi everyone? hope you ok. So, let's start with me ne project.
+My first repository!
+Hi everyone, hope you ok. So, let's start with me new project.
